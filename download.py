@@ -139,7 +139,7 @@ if __name__ == '__main__':
     # 配置如下变量
     hostaddr = '192.168.0.102' # ftp地址
     username = 'ftpname' # 用户名
-    password = 'sxc516' # 密码
+    password = 'passwd' # 密码
     port  =  21   # 端口号
     rootdir_local  = '/home/sxc/CODEAPP/mynteye/samples/bin/dataset/image_0/' # 本地目录
     rootdir_remote = '/image/dataset/image_0/'          # 远程目录

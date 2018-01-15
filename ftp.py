@@ -70,7 +70,7 @@ class Xfer(object):
 
 if __name__ == '__main__':
     xfer = Xfer()    
-    xfer.setFtpParams('127.0.0.1', 'slam', 'sxc516')
+    xfer.setFtpParams('127.0.0.1', 'slam', 'passwd')
     #xfer.upload(srcDir)
     xfer.initEnv()
     srcDir = r"/home/sxc/CODEAPP/mynteye/samples/bin/dataset/image_0/"
